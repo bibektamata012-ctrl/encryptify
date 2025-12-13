@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+<head><meta name="author" content="Encryptify">
+<meta name="robots" content="index, follow">
+<meta property="og:title" content="Encryptify – Free AES-256 Encryption Tool">
+<meta property="og:description" content="Secure client-side encryption for text and files. No data leaves your device.">
+
 <meta charset="UTF-8">
 <title>Encryptify – AES Encryption Tool</title>
 <meta name="description" content="Encryptify is a free client-side AES-256 encryption tool for protecting your privacy. Encrypt text and files securely in your browser.">
